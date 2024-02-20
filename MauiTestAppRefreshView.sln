@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiTestAppRefreshView", "MauiTestAppRefreshView\MauiTestAppRefreshView.csproj", "{5F3F8AE8-6A60-412B-92F0-40B0452B0FA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F3F8AE8-6A60-412B-92F0-40B0452B0FA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F3F8AE8-6A60-412B-92F0-40B0452B0FA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F3F8AE8-6A60-412B-92F0-40B0452B0FA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F3F8AE8-6A60-412B-92F0-40B0452B0FA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
